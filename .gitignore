@@ -1,0 +1,14 @@
+# Python cache, byte-compiled
+__pycache__
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv
+venv
+
+# Environment files
+.env
+
+# IDE
+*.code-workspace
